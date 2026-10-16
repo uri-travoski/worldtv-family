@@ -8,4 +8,4 @@ re-signed with the same key, so normal WorldTV updates install over it and keep 
 
 | Copy | Release |
 |---|---|
-| dvd | `WorldTV-RTU-dvd.apk` in the latest `dvd-*` release |
+| dvd | Latest: https://github.com/uri-travoski/worldtv-family/releases/latest/download/WorldTV-RTU-dvd.apk (sign in to GitHub first) |
